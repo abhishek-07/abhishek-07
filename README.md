@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Twitter-like application
 - 🌱 I’m currently learning Angular and Redux
-- 👯 I’m looking to collaborate on GitHub
+- 👯 I’m looking to collaborate on Web
 - 🤔 I’m looking for help to write custom Hooks.
 - 💬 Ask me about Machine Learning, Web dev, and tech stuff.
 - 📫 How to reach me: [Abhishek Reddy.me](https://abhishekreddy.me)
